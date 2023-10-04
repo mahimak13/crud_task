@@ -1,16 +1,6 @@
 # coffee_provider_app
 
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Have created a coffee shop app , there are two screens shop screen and the cart screen .there will be the different kind of coffee which are are available in the shop with its price on the shop screen
+You can add the coffee to your your by clicking on the + icon
+In the cart screen you can see the the items which aree added to the cart , and a delete icon also to remove the item from the cart
